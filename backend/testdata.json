@@ -1,0 +1,42 @@
+[
+	{
+		"id": 1,
+        "item":"Maito"
+	},
+	{
+		"id": 2,
+        "item":"Banaani"
+	},
+	{
+		"id":3,
+        "item":"Appelsiinimehu"
+	},
+	{
+		"id":4,
+        "item":"Leipä"
+	},
+	{
+		"id":5,
+        "item":"Juusto"
+	},
+	{
+		"id":6,
+        "item":"Leikkele"
+	},
+	{
+		"id":7,
+        "item":"Jogurtti"
+	},
+	{
+		"id":8,
+        "item":"Margariini"
+	},
+	{
+		"id":9,
+        "item":"Mysli"
+	},
+	{
+		"id":10,
+        "item":"Jauheliha"
+	}
+]
